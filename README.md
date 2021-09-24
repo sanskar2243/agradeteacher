@@ -1,2 +1,2 @@
 # agradeteacher
-a site to find your ideal tuition teacher 
+A site to find your ideal tuition teacher 
